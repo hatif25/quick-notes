@@ -63,15 +63,7 @@ I shared details about the QuickNotes project and my experience working on it in
 
 [LinkedIn Post - QuickNotes Project](https://www.linkedin.com/posts/md-hatif-farooque-35b55a229_flutterdevelopment-apparchitecture-softwaredevelopment-activity-7147248045745659905-Hnhl?utm_source=share&utm_medium=member_desktop)
 
-## Project Structure
 
-- **lib/**: Contains the main application code.
-  - **bloc/**: BLoC pattern implementation for managing state.
-  - **screens/**: UI screens for login, note listing, and note creation.
-  - **models/**: Data models for representing user notes.
-  - **services/**: Firebase service for handling authentication and CRUD operations.
-- **android/**, **ios/**: Platform-specific code for Android and iOS.
-- **assets/**: Contains app assets like images or fonts.
 
 ## Contributing
 
