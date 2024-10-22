@@ -77,9 +77,6 @@ I shared details about the QuickNotes project and my experience working on it in
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -88,5 +85,3 @@ For any inquiries, you can reach out to me at:
 - **Email**: mthraza72@gmail.com
 - **LinkedIn**: [Md Hatif Farooque](https://www.linkedin.com/in/md-hatif-farooque-35b55a229)
 ```
-
-You can copy this entire file and use it directly for your QuickNotes project on GitHub!
