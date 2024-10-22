@@ -1,6 +1,3 @@
-Here is the full `README.md` file formatted so you can copy and paste directly:
-
-```markdown
 # QuickNotes
 
 QuickNotes is a note-taking application that allows users to create, manage, and organize their notes efficiently. The app includes Firebase authentication, CRUD functionalities, and is built following the BLoC (Business Logic Component) state management pattern.
@@ -19,6 +16,9 @@ QuickNotes is a note-taking application that allows users to create, manage, and
 - **Backend**: Firebase (for authentication and cloud storage)
 - **State Management**: BLoC pattern for managing the application state.
   
+## Screenshots
+
+Add screenshots to showcase the main features and user interface of your app.
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ QuickNotes is a note-taking application that allows users to create, manage, and
    ```bash
    git clone https://github.com/your-username/quicknotes.git
    cd quicknotes
-   ```
+
 
 2. **Install dependencies**:
    ```bash
